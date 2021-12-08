@@ -1,7 +1,7 @@
 noseX=0;
 noseY=0;
 function preload(){
-clown_nose=loadImage('https://i.postimg.cc/fb7Ngd0v/istockphoto-1192834521-612x612.jpg');
+clown_nose=loadImage('https://i.postimg.cc/Mp6s7jmB/clownnose.png');
 }
 function setup(){
     canvas=createCanvas(300,300);
